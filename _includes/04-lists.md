@@ -1,4 +1,4 @@
-Sports
-Reading
-Cinema
-Hangouts
+* Sports
+* Reading
+* Cinema
+* Hangouts
