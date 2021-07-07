@@ -1,4 +1,0 @@
-* Sports
-* Reading
-* Cinema
-* Hangouts
