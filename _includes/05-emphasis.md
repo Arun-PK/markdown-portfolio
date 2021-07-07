@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Good at C programming*
+_Interested in Hardware jobs_
+
+**Completed Internship in local body level for Kerala IT Cell**
+__Codinator of National Event Naksha 21__
+
+
+ 
